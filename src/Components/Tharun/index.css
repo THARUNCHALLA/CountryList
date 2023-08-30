@@ -1,0 +1,29 @@
+.container1 {
+  margin: 20px;
+  background-color: #334155;
+  width: 220px;
+  list-style-type: none;
+}
+.img {
+  height: 120px;
+  width: 220px;
+}
+.container12 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 220px;
+}
+.heading {
+  font-family: 'roboto';
+  font-size: 14px;
+  color: white;
+}
+.button {
+  background-color: transparent;
+  cursor: pointer;
+  border: solid 1px white;
+  color: white;
+  height: 22px;
+  border-radius: 04px;
+}
